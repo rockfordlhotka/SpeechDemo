@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
-  <Identity Name="58d960d6-2e52-4a87-a549-31a360a6445d" Publisher="CN=Rockford" Version="1.0.0.0" />
+  <Identity Name="58d960d6-2e52-4a87-a549-31a360a6445d" Publisher="CN=Rockford" Version="1.0.0.1" />
   <Properties>
     <DisplayName>SpeechDemo</DisplayName>
     <PublisherDisplayName>Rockford</PublisherDisplayName>
